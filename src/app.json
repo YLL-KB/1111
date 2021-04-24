@@ -1,0 +1,15 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "source": "pages/Home/index"
+    },
+    {
+      "path": "/User",
+      "source": "pages/User/index"
+    }
+  ],
+  "window": {
+    "title": "Rax App"
+  }
+}
